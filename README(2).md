@@ -68,7 +68,7 @@ Conclusion
 Both methods produce the same factorial result. The iterative method uses less memory, while the recursive method demonstrates the use of recursion.
 
 
-# Coin Change Problem Using Dynamic Programming
+# pratical-7 Coin Change Problem Using Dynamic Programming
 
 This project provides a Python solution to the Coin Change Problem using Dynamic Programming. The program determines the minimum number of coins required to make a given target amount from a set of available coin denominations.
 

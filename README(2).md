@@ -92,7 +92,7 @@ This project is useful for learning Dynamic Programming concepts, practicing alg
 
 
 
-# Graph Implementation and Searching (DFS & BFS) in Python
+# Pratical 8:Graph Implementation and Searching (DFS & BFS) in Python
 
 ## Overview
 This practical demonstrates graph implementation using an **Adjacency List** and two graph traversal algorithms: DFS and BFS.

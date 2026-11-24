@@ -89,3 +89,39 @@ If the target amount can be formed, the program returns the minimum number of co
 * **Space Complexity:** O(amount)
 
 This project is useful for learning Dynamic Programming concepts, practicing algorithm design, and preparing for coding interviews.
+
+
+
+# Graph Implementation and Searching (DFS & BFS) in Python
+
+## Overview
+This practical demonstrates graph implementation using an **Adjacency List** and two graph traversal algorithms: DFS and BFS.
+
+## Concepts Covered
+- Graph Representation (Adjacency List)
+- Depth First Search (DFS) – Uses Stack / Recursion
+- Breadth First Search (BFS) – Uses Queue
+
+## Technologies
+- Python
+- Collections (deque)
+
+## Output
+
+**DFS Traversal:**
+```text
+A B D E F C
+```
+
+**BFS Traversal:**
+```text
+A B C D E F
+```
+
+## Time Complexity
+Both DFS and BFS: **O(V + E)**
+
+## Learning Outcome
+Learned graph representation and traversal using DFS and BFS.
+
+

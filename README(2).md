@@ -159,3 +159,40 @@ Total weight: 9
 ## Learning Outcome
 Learned how to implement Prim's Algorithm and find the Minimum Spanning Tree with minimum total edge weight.
 
+
+
+# Practical 10 : Kruskal's Algorithm Implementation in Python
+
+## Overview
+This practical implements **Kruskal's Algorithm**, a greedy algorithm used to find the Minimum Spanning Tree (MST) of a connected, undirected, weighted graph.
+
+## Concepts Covered
+- Graph Representation
+- Greedy Algorithm
+- Minimum Spanning Tree (MST)
+- Disjoint Set Union (Union-Find)
+- Cycle Detection
+
+## Technologies Used
+- Python
+- Sorting
+- Union-Find
+
+## Output
+```text
+Edges in the Minimum Spanning Tree:
+B - C : 1
+A - B : 2
+D - E : 2
+B - D : 4
+
+Total weight: 9
+```
+
+## Complexity
+- **Time Complexity:** O(E log E)
+- **Space Complexity:** O(V)
+
+## Learning Outcome
+Learned how to implement Kruskal's Algorithm and find the Minimum Spanning Tree by selecting minimum-weight edges without creating cycles.
+

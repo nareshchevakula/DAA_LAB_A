@@ -125,3 +125,37 @@ Both DFS and BFS: **O(V + E)**
 Learned graph representation and traversal using DFS and BFS.
 
 
+
+# Practical 9 : Prim's Algorithm Implementation in Python
+
+## Overview
+This practical implements **Prim's Algorithm**, a greedy algorithm used to find the Minimum Spanning Tree (MST) of a connected, undirected, weighted graph.
+
+## Concepts Covered
+- Graph Representation (Adjacency List)
+- Greedy Algorithm
+- Minimum Spanning Tree (MST)
+- Priority Queue (Min Heap)
+
+## Technologies Used
+- Python
+- Heapq module
+
+## Output
+```text
+Edges in the Minimum Spanning Tree:
+A - B : 2
+B - C : 1
+B - D : 4
+D - E : 2
+
+Total weight: 9
+```
+
+## Complexity
+- **Time Complexity:** O(E log V)
+- **Space Complexity:** O(V + E)
+
+## Learning Outcome
+Learned how to implement Prim's Algorithm and find the Minimum Spanning Tree with minimum total edge weight.
+
